@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "biome": "pnpm biome format --write ."
+    "biome": "biome format --write ."
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",
